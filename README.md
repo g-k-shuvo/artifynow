@@ -75,7 +75,7 @@ The initial foundation was inspired by a tutorial, but I used it to understand a
 ## 🤸 Quick Start
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
-cd imaginify
+git clone https://github.com/g-k-shuvo/artifynow
+cd artifynow
 npm install
 npm run dev
